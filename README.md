@@ -4,9 +4,9 @@
 This project visualizes the behavior of different activation functions in two neural network setups: a single-layer perceptron and a two-layer neural network, using NumPy and Matplotlib. Activation functions such as Sigmoid, Hard Limit, and Radial Basis Function (RBF) are applied, demonstrating their impact on neural network outputs over a defined input domain.
 
 ## Features
-Single-Layer Perceptron: A simple linear combination of inputs passed through various activation functions.
-Two-Layer Neural Network: A more complex architecture that showcases the combined effect of weights, biases, and activation functions.
-3D Visualization: Generates 3D surface plots for each activation function, providing an intuitive understanding of their transformations.
+ - Single-Layer Perceptron: A simple linear combination of inputs passed through various activation functions.
+ - Two-Layer Neural Network: A more complex architecture that showcases the combined effect of weights, biases, and activation functions.
+ - 3D Visualization: Generates 3D surface plots for each activation function, providing an intuitive understanding of their transformations.
 
 ## how to run:
 ### Clone The Repo:
